@@ -1,0 +1,8 @@
+/ SKAL=1 NEGOD=1 POZ=1 NEG=1 ISPT=1 EDIT=1 SRAND=1 SVIODG=1 TESTP=1 DETALJI=1
+
+FA 
+"Test 3"
+=FAS
+//oblast 		 pitanje 	 +poeni 	 -poeni 	 izbacivanje
+SEKCIJA TJ OBLAST		*Pt1.2	2.0	1.0	 izbacivanje
+SEKCIJA TJ OBLAST		*Pitanje broj 2.1	3.0	1.0	 izbacivanje
