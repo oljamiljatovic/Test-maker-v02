@@ -32,7 +32,7 @@
     "reactstrap": "^6.5.0",
     "sass-loader": "6.0.6",
     "style-loader": "0.18.2",
-    "validator": "8.0.0"
+    "validator": "13.7.0"
   },
   "devDependencies": {
     "webpack": "^4.34.0",
